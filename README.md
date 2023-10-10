@@ -7,7 +7,7 @@ A full processing and analysis of Instacart customer and sales data using Python
   strategies for better segmentation based on the provided criteria.
 - The analysis will inform instacarts targeted marketing strategy. 
 - Key questions include what are the busiest days of the week/time of day for instacart, how does sales performance vary across price levels
-  product groups, and how do different demographic group's purchasing patterns vary. 
+  and product groups, and how do different demographic group's purchasing patterns vary. 
 
 ## Data 
 - The data used in the analysis comes from open source data provided by Instacart, as well as a data set with customer data provided by 
