@@ -20,4 +20,13 @@ A full processing and analysis of Instacart customer and sales data using Python
 - For this project the following python libraries were used:
     - pandas (for analysis)
     - seaborn (for visualizations)
-- Excel 
+- Excel
+
+## Project Folder Structure 
+- Within the project folder there are several addition folders:
+    - IC_Analysis
+        - IC_reports which contains the Excel files for exported data as well as addition analysis
+        - IC_visualizations which contains the visualizations created during the analysis
+    - IC_Project_Management which contains the project brief document
+    - IC_Scripts which contains all of the scripts used in the analysis
+    - IC_Sent_to_Client which contains the final Excel file report for the analysis
